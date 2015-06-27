@@ -1,6 +1,6 @@
 # chatter
 
-FIXME
+This is a web app that will display posted messages
 
 ## Prerequisites
 
